@@ -1,16 +1,29 @@
-## Hi there 👋
+🌟 João Valério | Junior Python Developer
 
-<!--
-**Rasnman/rasnman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎯 Seeking junior developer opportunities | 🐍 Passionate Pythonist | 💡 Always learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🚀 Featured Projects
+Project	Description	Technologies
+🔬 Pharmacy Management System	Desktop app to manage inventory of raw materials and production	Python, Tkinter, SQLite
+📊 Sales Dashboard	Interactive data analysis and graphs with Python	Pandas, Matplotlib, Jupyter
+📁 File Organizer	Script that automatically organizes folders	Python, OS
+
+📈 GitHub Stats
+
+
+📬 Contact
+✉️ Email: joao.valerio.j2013@gmail.com
+
+📍 Location: Maringá - PR, Brazil
+
+📚 Currently Learning
+Data Structures & Algorithms in Python
+
+GUI Development with Tkinter
+
+Git & GitHub best practices
+
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
