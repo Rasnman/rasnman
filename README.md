@@ -6,7 +6,9 @@
 
 
 🚀 Featured Projects
+
 Project	Description	Technologies
+
 🔬 Pharmacy Management System	Desktop app to manage inventory of raw materials and production	Python, Tkinter, SQLite
 📊 Sales Dashboard	Interactive data analysis and graphs with Python	Pandas, Matplotlib, Jupyter
 📁 File Organizer	Script that automatically organizes folders	Python, OS
